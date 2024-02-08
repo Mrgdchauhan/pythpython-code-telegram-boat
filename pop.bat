@@ -1,3 +1,3 @@
 @echo off
 cd /
-pythonw.exe main.py
+start /B pythonw.exe main.py
